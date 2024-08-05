@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Vincent Santini"
-  pronouns         : example: "They/He"  
+  pronouns         : "They/He"  
   bio              : "Physics PhD student at Binghamton University. Interested in quantum sciences, Linux, LaTeX, classical music and more."
   location         : "New York"
   employer         : "Binghamton University"
