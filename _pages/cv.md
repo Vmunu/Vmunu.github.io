@@ -22,19 +22,15 @@ Education
 
 Experience
 ======
-* Teaching Assistant (Aug '24 - Present)
-  * Binghamton University
+* <b>Teaching Assistant</b> - <i>Binghamton University</i> (Fall 2024)
 
-* Math Tutor (Spring 2024)
-  * SUNY at New Paltz
-  * <ul>Material Tutored:</ul>
+* <b>Math Tutor</b> - <i>SUNY at New Paltz</i>(Spring 2024)
+  * <u>Material Tutored:</u>
     * Differential, Integral and Multivariable Calculus
     * Ordinary & Partial Differential Equations
     * Linear Algebra
     * College Algebra
 
-* Undergraduate Laboratory Assistant (Spring 2024)
-  * SUNY at New Paltz
+* <b>Undergraduate Laboratory Assistant</b> (Spring 2024)
 
-* Undergraduate Teaching Assistant (Fall 2023)
-  * SUNY at New Paltz
+* <b>Undergraduate Teaching Assistant</b> (Fall 2023)
