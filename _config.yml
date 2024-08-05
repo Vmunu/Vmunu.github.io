@@ -21,7 +21,7 @@ repository               : "Vmunu/Vmunu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pfp6.png"
   name             : "Vincent Santini"
   pronouns         : "They/He"  
   bio              : "Physics PhD student at Binghamton University. Interested in quantum sciences, Linux, LaTeX, classical music and more."
