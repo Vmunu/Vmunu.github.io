@@ -1,18 +1,21 @@
 # main links links
 main:
+  - title: "Articles"
+    url: /articles/
+    
   - title: "Papers"
     url: /papers/
-
+    
   #- title: "Talks"
     #  url: /talks/    
-
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Vitae"
+  - title: "Resume"
     url: /cv/
     
   - title: "Guide"
