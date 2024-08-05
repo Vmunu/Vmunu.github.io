@@ -22,13 +22,13 @@ repository               : "Vmunu/Vmunu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Vincent Santini"
   pronouns         : example: "They/He"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physics PhD student at Binghamton University. Interested in quantum sciences, Linux, LaTeX, classical music and more."
+  location         : "New York"
+  employer         : "Binghamton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vincentsant2020@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
