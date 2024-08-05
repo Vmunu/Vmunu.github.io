@@ -17,8 +17,8 @@ Theory of Relativity.
 
 Education
 ======
-* Doctor of Philosophy in Physics (2024 - 2030) 
-* Bachelor of Science in Physics (2020 - 2024) 
+* <b>Doctor of Philosophy in Physics</b> - <i>Binghamton University</i> (exp. 2030)
+* <b>Bachelor of Science in Physics</b> - <i>SUNY at New Paltz</i> (2024)
 
 Experience
 ======
@@ -31,6 +31,6 @@ Experience
     * Linear Algebra
     * College Algebra
 
-* <b>Undergraduate Laboratory Assistant</b> (Spring 2024)
+* <b>Undergraduate Laboratory Assistant</b> - <i>SUNY at New Paltz</i> (Spring 2024)
 
-* <b>Undergraduate Teaching Assistant</b> (Fall 2023)
+* <b>Undergraduate Teaching Assistant</b> - <i>SUNY at New Paltz</i> (Fall 2023)
